@@ -1,4 +1,9 @@
 ## Olá! Eu sou o Túlio Rodrigues.
+
+📘 Sou estudante de Engenharia de Software.
+📘 Atualmente estudando Python.
+
+
 <div align="center">
   <a href="https://github.com/tuliorav">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuliorav&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   

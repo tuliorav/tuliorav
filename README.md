@@ -2,7 +2,6 @@
 
 - 📘 Estudante de Engenharia de Software
 - 📘 Estudando Python
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/tuliorav">

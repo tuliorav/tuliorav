@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Túlio Rodrigues.
 
-📘 Sou estudante de Engenharia de Software.
-📘 Atualmente estudando Python.
+📘 Sou estudante de Engenharia de Software
 
+📘 Atualmente estudando Python
 
 <div align="center">
   <a href="https://github.com/tuliorav">
